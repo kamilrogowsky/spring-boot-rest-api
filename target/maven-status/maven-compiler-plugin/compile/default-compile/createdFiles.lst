@@ -1,0 +1,6 @@
+com\restapi\springbootrestapi\controller\VehicleController.class
+com\restapi\springbootrestapi\repository\VehicleRepository.class
+com\restapi\springbootrestapi\service\VehicleService.class
+com\restapi\springbootrestapi\Application.class
+com\restapi\springbootrestapi\dto\VehicleDto.class
+com\restapi\springbootrestapi\entity\Vehicle.class
