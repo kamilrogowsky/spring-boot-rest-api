@@ -10,3 +10,7 @@ application.properties.
 Testing Api was done with Insomnia REST client tool which allows to examine 4 basic HTTP methods (GET, POST, PUT, DELETE)
 Results were automatically saved in table in MySQL Workbench database.
 
+
+| Attempt | #1 | #2 |
+| :---: | :---: | :---: |
+| Seconds | 301 | 283 |
