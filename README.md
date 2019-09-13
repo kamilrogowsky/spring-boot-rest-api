@@ -15,9 +15,8 @@ Results were automatically saved in table in MySQL Workbench database.
 
 | Method | URL | Description |
 | :---: | :---: | :---: |
-| Seconds | 301 | 283 |
-| Seconds | 301 | 283 |
-| Seconds | 301 | 283 |
-| Seconds | 301 | 283 |
-| Seconds | 301 | 283 |
-| Seconds | 301 | 283 |
+| POST | /rental/vehicle | add vehicle |
+| GET | /rental/vehicle/{id} | get information about vehicle by id |
+| GET | /rental/vehicles | get information about all vehicles |
+| PUT | /rental/vehicle/{id} | update specified vehicle |
+| DELETE | /rental/vehicle/{id} | remove vehicle by id |
