@@ -13,6 +13,11 @@ Results were automatically saved in table in MySQL Workbench database.
 
 **Endpoints**
 
-| Attempt | #1 | #2 |
+| Method | URL | Description |
 | :---: | :---: | :---: |
+| Seconds | 301 | 283 |
+| Seconds | 301 | 283 |
+| Seconds | 301 | 283 |
+| Seconds | 301 | 283 |
+| Seconds | 301 | 283 |
 | Seconds | 301 | 283 |
